@@ -4,5 +4,6 @@ This is a food delivery website which is easy to use and responsive. Customers c
 
 Tech Stack: HTML,CSS,Bootstrap.
 
-![main page](img1.jpg)
+![main page](Burgerpoint
+/img1.jpg)
 
